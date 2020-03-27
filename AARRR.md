@@ -1,4 +1,4 @@
-﻿# AARRR
+# AARRR
 
 ## 1. 정의
 - 미국의 스타트업 엑셀러레이터인, 500 STARTSUPS를 이끌고 있는 Dave McClure가 개발한 분석 프레임워크.
@@ -16,27 +16,27 @@
 ## 3. 자세한 5가지 단계
 AARRR 프레임워크는 5단계로 나뉜다. 목표는 사람들을 첫번째 단계에서 그다음 단계로 전환시키는 것. 단계별로 어떤 KPI를 보면서 분석해야하는지 살펴보자.
 
- 1. 사용자 유치(Acquisition)
+ 1. 사용자 유치(Acquisition) <br>
  주요 목표는 가능한한 더 많은 사람들에게 제품이나 서비스를 알려야하는 것.
 ` KPI: 트래픽, 신규 방문자 수, DAU, MAU`
  
- 2. 사용자 활성화(Activation) 
+ 2. 사용자 활성화(Activation) <br>
 사용자들에게 긍정적인 경험을 제공하는 것은 매우 중요한 일.
 페이지별 '이탈률'과 '세션당 페이지 수 ' 등을 참고하면서 판단하면 좋음.
  `KPI: 웹사이트 트래픽, 검색 조회 수, CAC, CPC`
 
- 3. 사용자 유지(Retention)
+ 3. 사용자 유지(Retention) <br>
  새로운 사용자 유치보단 기존 사용자 유지하는 것이 더 중요함.
  `KPI: 서비스 한 번 이상 이용자수, 재방문율, 장바구니 이용횟수`
 
- 4. 매출(Revenue)
+ 4. 매출(Revenue) <br>
 전 3단계를 아무리 성공적으로 이끌었다해도 매출로 이어지지 않으면 무용지물.
 `KPI: 전환율, 매출 데이터, 이탈률, 객단가, LTV`
  
- 5. 추천(Referral)
+ 5. 추천(Referral) <br>
 사용자가 또 다른 사용자에게 어느정도로 공유하고 바이럴을 일으키는지 측정.
 사용자 스스로 추천을 하면 신뢰성이 높아지고 마케팅 효과가 강력함.
-`KPI: 공유/댓글 수, 바이럴 콘텐츠 수`
+`KPI: 공유/댓글 수, 바이럴 콘텐츠 수`  <br>
  
- ![AARRR 5step startup metrics model](https://i0.wp.com/entrench-consulting.com/wp-content/uploads/2017/11/aarrr-500hats.jpg?w=734&ssl=1)
+ ![AARRR 5step startup metrics model](https://i0.wp.com/entrench-consulting.com/wp-content/uploads/2017/11/aarrr-500hats.jpg?w=734&ssl=1) <br>
 전통적 모델인 퍼널(Funnel)분석에 더 의상 의존하지 않고,  정보가 넘처나는 시대에 맞춰 소셜미디어 환경에서 다차원적인 접근, 구매까지의 **비선형적인 과정**이 필요함.
