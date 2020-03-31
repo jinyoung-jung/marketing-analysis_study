@@ -25,9 +25,7 @@ Problem)
 
 R, F, M의 지표에 가중치를 부여하여 모델링하는 방법도 있다.
 
-$$
-y = x_1 \times R + x_2 \times F + x_3 \times M
-$$
+y = x<sub>1</sub> x R + x<sub>2</sub> x F + x<sub>3</sub> x M
 
 - 각각의 요인을 수치화 시켜 각 요인에 가중치를 부여 한 후 합산하여 구하는 모델링 기법
 - 가중치는 다중회귀 분석을 통해 추정
