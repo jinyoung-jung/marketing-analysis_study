@@ -40,3 +40,5 @@ AARRR 프레임워크는 5단계로 나뉜다. 목표는 사람들을 첫번째 
  
  ![AARRR 5step startup metrics model](https://i0.wp.com/entrench-consulting.com/wp-content/uploads/2017/11/aarrr-500hats.jpg?w=734&ssl=1)  
 전통적 모델인 퍼널(Funnel)분석에 더 의상 의존하지 않고,  정보가 넘처나는 시대에 맞춰 소셜미디어 환경에서 다차원적인 접근, 구매까지의 **비선형적인 과정**이 필요함.
+
+[추가+](http://blog.bizspring.co.kr/25984)
